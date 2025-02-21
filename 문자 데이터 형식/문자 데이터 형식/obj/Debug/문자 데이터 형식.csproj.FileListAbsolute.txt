@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\bin\Debug\문자 데이터 형식.exe.config
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\bin\Debug\문자 데이터 형식.exe
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\bin\Debug\문자 데이터 형식.pdb
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\obj\Debug\문자 데이터 형식.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\obj\Debug\문자 데이터 형식.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\obj\Debug\문자 데이터 형식.exe
+C:\BootCamp\LikeLion\LikeLion\문자 데이터 형식\문자 데이터 형식\obj\Debug\문자 데이터 형식.pdb

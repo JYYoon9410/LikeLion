@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "문자 데이터 형식", "문자 데이터 형식\문자 데이터 형식.csproj", "{70E71152-8747-4BA2-9ED7-83D661EF1217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E71152-8747-4BA2-9ED7-83D661EF1217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E71152-8747-4BA2-9ED7-83D661EF1217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E71152-8747-4BA2-9ED7-83D661EF1217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E71152-8747-4BA2-9ED7-83D661EF1217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9892D07-0A26-41F8-9FF8-F6F062DD6C30}
+	EndGlobalSection
+EndGlobal
